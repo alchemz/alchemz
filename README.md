@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Lily (Xianling) Zhang is a Machine Learning Research Scientist at Ford Autonomy, Palo Alto, CA, located at [Ford Greenfield Labs, Stanford Research Park](https://corporate.ford.com/operations/locations/silicon-valley.html). She is working on Perception and Prediction for autonomous driving tasks. 
 
-## 🔭 Research projecs:
+## 🔭 Research projects:
 - 3D perception and motion prediction
 - Geometric scene understanding based data manipulation(scene relighting) to significantly improve the performance of SOTA CenterTrack algorithm.
 - Dataset bias identification using perceptual similarity based data clustering for large scale dataset meta labeling, similar data searching, balanced data selection for training set curation.
